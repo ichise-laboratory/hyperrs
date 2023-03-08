@@ -1,0 +1,33 @@
+{
+    "DATASET": "Book",
+    "ml-10m": {
+        "USER_NUM": 71567,
+        "CREATOR_NUM": 3571,
+        "GENRE_NUM" : 273,
+        "CHARACTER_NUM": 28252,
+        "SUPPORT_SIZE": 10,
+        "QUERY_SIZE": 10,
+        "NEGATIVE_NUM": 20,
+        "EPOCH_NUM": 5
+    },
+    "tokyoTV":{
+        "USER_NUM": 70,
+        "CREATOR_NUM": 7,
+        "GENRE_NUM": 11,
+        "CHARACTER_NUM": 9374,
+        "SUPPORT_SIZE": 10,
+        "QUERY_SIZE": 10,
+        "NEGATIVE_NUM": 20,
+        "EPOCH_NUM": 5
+    },
+    "Book": {
+        "USER_NUM": 7383,
+        "CREATOR_NUM": 10829,
+        "GENRE_NUM": 82790,
+        "CHARACTER_NUM": 41533,
+        "SUPPORT_SIZE": 5,
+        "QUERY_SIZE": 5,
+        "NEGATIVE_NUM": 10,
+        "EPOCH_NUM": 5
+    }
+}

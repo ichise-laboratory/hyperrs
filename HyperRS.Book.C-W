@@ -1,0 +1,15 @@
+{
+    "model_name": "HyperRS",
+    "save_model": false,
+    "transfer_learning": false,
+    "use_existing_items": true,
+    "embedding_size": 100,
+    "interest_basis_num": 50,
+    "interest_basis_dim": 100,
+    "max_epoch": 5,
+    "alpha": 0.001,
+    "beta": 0.003, 
+    "gamma": 0.001,
+    "eval_batch": 500,
+    "use_gpu": "1"
+}
