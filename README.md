@@ -1,4 +1,7 @@
 # hyperrs
+
+This project follows BSD 3-Clause License.
+
 Source Code for the paper "HyperRS: Hypernetwork-based Recommender System for the User Cold- Start Problem"
 
 Dependencies:
