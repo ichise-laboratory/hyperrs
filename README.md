@@ -16,7 +16,7 @@ At least 10GB GPU memory.
 At least 32GB memory.
 
 
-1. Download the preprocessed data from (this will be replaced by an URL from our lab page).
+1. Download the preprocessed data from (this will be provided on request.)
 2. Unzip the `data.tar.gz`. Move all files in the same directory with `trainer.py`
 3. Modify `DATASET` in `dataset_info.json` to choose `ml-10m` (Movielens), `tokyoTV` (Tokyo TV), `Book` (BookCrossing) 
 4. Use `python trainer.py -m [CONFIG_FILE_NAME]` to train the dataset.
